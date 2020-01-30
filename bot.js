@@ -21,9 +21,9 @@ require('./util/eventLoader')(client);
 client.ayarlar = {
 "durum":"dnd",//online , idle , dnd 
 "oynuyor":"J4J YAPILIR JOİN FOR JOİN DM",
-"prefix":".",
-"sahip":"662464079633580032",
-"token":"NjY5ODg2MTM3NDEzNzk1ODUw.XimcuA.j-W7HlAr2ZhK6O0kjbymZF_H3-Y"
+"prefix":"j4!",
+"sahip":"646898268101541888",
+"token":"NDg1Mzk1MjAwMTYwNjk0Mjcy.XdK2cg.kA2JO6ukI5NX__ChH3RUCkAnQtQ"
 }
 /////////////////////////////////////////////
 
